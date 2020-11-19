@@ -1,10 +1,8 @@
 # IntegrandoVueComNode
 
-# Foobar
-
 Pequeno projeto integrando Vue.js com Node.js
 
-## Installation
+## Instalação
 
 ```bash
 
